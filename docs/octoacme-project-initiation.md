@@ -19,6 +19,13 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Initial risk list
 - Resource needs (team roles, rough effort estimate)
 
+**Key Roles Involved:**
+- **Product Manager:** Defines problem statement and success metrics
+- **Business Analyst:** Conducts stakeholder interviews and documents requirements
+- **Project Manager:** Creates timeline, identifies risks, and coordinates resources
+- **Technical Lead/Developer:** Provides technical feasibility assessment and effort estimates
+- **UX/UI Designer:** Assesses design scope and user research needs (if applicable)
+
 ## Project One-pager Template
 - Project name:
 - Problem statement:
@@ -30,11 +37,14 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Proposed team / roles:
 
 ## Initiation Checklist
-- [ ] One-pager completed and reviewed by Product Lead
-- [ ] Sponsor / Stakeholder alignment (email or meeting)
-- [ ] Decision: Approve to move into planning?
-- [ ] Create repo or project board skeleton
-- [ ] Add initial artifacts to repo (docs/ or .copilot/)
+- [ ] One-pager completed and reviewed by Product Lead *(Product Manager)*
+- [ ] Stakeholder interviews and requirements gathering complete *(Business Analyst)*
+- [ ] Sponsor / Stakeholder alignment (email or meeting) *(Project Manager)*
+- [ ] Technical feasibility assessment completed *(Technical Lead/Developer)*
+- [ ] Initial design scope identified (if applicable) *(UX/UI Designer)*
+- [ ] Decision: Approve to move into planning? *(Product Manager, Project Manager)*
+- [ ] Create repo or project board skeleton *(Project Manager)*
+- [ ] Add initial artifacts to repo (docs/ or .copilot/) *(Project Manager, Technical Writer)*
 
 ## Decision Gate
 Move to planning when:
